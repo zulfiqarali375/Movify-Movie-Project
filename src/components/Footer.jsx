@@ -26,7 +26,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="mt-8 text-center text-gray-500 text-xs">
-          <p>&copy; {currentYear} Free Cinema Project. Developed by codewithzulfi</p>
+          <p>&copy; {currentYear} Developed by codewithzulfi</p>
         </div>
       </div>
     </footer>
